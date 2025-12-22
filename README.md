@@ -28,6 +28,7 @@
 
 I use **Python, NLP, web scraping, and data visualization** to study how ideas circulate, how public opinion forms, and how narratives shape political behavior.</p> 
 <hr>
+
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL  
