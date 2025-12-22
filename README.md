@@ -20,7 +20,7 @@
 
 <h1>About Me! </h1>
 <br>
-<p>I am a *data analyst and political communication specialist* with experience in:
+<p>I am a **data analyst and political communication specialist** with experience in:
 
 - Speechwriting and public discourse analysis  
 - Strategic narrative development  
