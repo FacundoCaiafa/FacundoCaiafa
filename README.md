@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://facundocaiafa.github.io">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:tuemail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/facundo-uriel-caiafa-585454160/">LinkedIn</a> •
+  <a href="mailto:facundo.caiafa@gmail.com">Email</a>
 </p>
 
 <h1>About Me! </h1>
