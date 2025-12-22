@@ -34,3 +34,14 @@ I use **Python, NLP, web scraping, and data visualization** to study how ideas c
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn  
 - **NLP:** Text preprocessing, keyword extraction, discourse analysis  
 - **Other:** Web scraping, data visualization, Git & GitHub
+
+## 🚀 Featured Projects
+
+### 📊 Analysis of Political Speeches
+**Python · NLP · Visualization**
+
+- Text analysis of political speeches (.docx)
+- Frequency analysis and visualization
+- Exploratory insights into political narratives
+
+🔗 [View repository](https://github.com/facundocaiafa-ship-it/analisis-discursos-python)
