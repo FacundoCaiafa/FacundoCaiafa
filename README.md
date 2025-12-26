@@ -1,14 +1,6 @@
 
 ![Header](https://raw.githubusercontent.com/FacundoCaiafa/FacundoCaiafa/main/header.png)
 
-<h1 align="center">
-  Hi, I'm <a href="https://github.com/facundocaiafa">Facundo Caiafa</a> 
-</h1>
-
-<p align="center">
-  <b>**Communications & Data Analytics Specialist | Political Discourse & NLP**
- </b>
-</p>
 
 <p align="center">
   <a href="https://facundocaiafa.github.io">🌐 Portfolio</a> •
